@@ -1,0 +1,8 @@
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.exe.config
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.pdb
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.csproj.SuggestedBindingRedirects.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.pdb
