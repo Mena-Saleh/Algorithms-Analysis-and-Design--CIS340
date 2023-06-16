@@ -1,0 +1,15 @@
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.deps.json
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.runtimeconfig.json
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.dll
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.pdb
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.AssemblyInfoInputs.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.AssemblyInfo.cs
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.dll
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\refint\SortingAlgorithms.dll
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.pdb
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.genruntimeconfig.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\ref\SortingAlgorithms.dll
