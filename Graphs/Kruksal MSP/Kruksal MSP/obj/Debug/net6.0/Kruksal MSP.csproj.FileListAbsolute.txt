@@ -1,0 +1,15 @@
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\bin\Debug\net6.0\Kruksal MSP.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\bin\Debug\net6.0\Kruksal MSP.deps.json
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\bin\Debug\net6.0\Kruksal MSP.runtimeconfig.json
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\bin\Debug\net6.0\Kruksal MSP.dll
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\bin\Debug\net6.0\Kruksal MSP.pdb
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\obj\Debug\net6.0\Kruksal MSP.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\obj\Debug\net6.0\Kruksal MSP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\obj\Debug\net6.0\Kruksal MSP.AssemblyInfoInputs.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\obj\Debug\net6.0\Kruksal MSP.AssemblyInfo.cs
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\obj\Debug\net6.0\Kruksal MSP.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\obj\Debug\net6.0\Kruksal MSP.dll
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\obj\Debug\net6.0\refint\Kruksal MSP.dll
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\obj\Debug\net6.0\Kruksal MSP.pdb
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\obj\Debug\net6.0\Kruksal MSP.genruntimeconfig.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Graphs\Kruksal MSP\Kruksal MSP\obj\Debug\net6.0\ref\Kruksal MSP.dll

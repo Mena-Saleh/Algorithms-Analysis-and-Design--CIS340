@@ -17,13 +17,13 @@ namespace Insertion_Sort
         static void Main(string[] args)
         {
             //Random list:
-            List<double> list = GenerateRandomList(1000000);
+            List<double> list = GenerateRandomList(10000000);
 
 
             //Try sorting algorithm here:
             Stopwatch timer = new Stopwatch();
             timer.Start();
-            QuickSort(ref list);
+            MergeSort(list);
             timer.Stop();
 
             //Print result:
@@ -33,7 +33,15 @@ namespace Insertion_Sort
             //}
             //Console.WriteLine();
 
-            Console.WriteLine("Elapsed time is " + timer.ElapsedMilliseconds + "ms");
+            Console.WriteLine("Elapsed time to sort is " + timer.ElapsedMilliseconds + "ms");
+
+            //Checking algorithm performance on a sorted list:
+            timer.Restart();
+            QuickSort(list);
+            timer.Stop();
+
+            Console.WriteLine("Elapsed time on a sorted list is " + timer.ElapsedMilliseconds + "ms");
+
             Console.ReadLine();
         }
 
@@ -45,7 +53,7 @@ namespace Insertion_Sort
         //If the list is almost sorted (I.E: one or few elements are out of order) Insertion sort is a great choice because it is almost O[n]
         //In place
         //Fastest sort on small inputs, N < 50
-        public static void InsertionSort(ref List<double> toSort)
+        public static void InsertionSort(List<double> toSort)
         {
             double current;
             int j;
@@ -67,7 +75,7 @@ namespace Insertion_Sort
         //In place
         //Works well for small inputs but otherwise not the best choice
         //Does around N swaps
-        public static void SelectionSort(ref List<double> toSort) {
+        public static void SelectionSort(List<double> toSort) {
             double min;
             int minIndex = 0;
             for (int i = 0; i < toSort.Count; i++)
@@ -81,7 +89,7 @@ namespace Insertion_Sort
                         minIndex = j;
                     }
                 }
-                Swap(ref toSort, i, minIndex); //Put the minimum element in place.
+                Swap(toSort, i, minIndex); //Put the minimum element in place.
             }
         }
 
@@ -89,7 +97,7 @@ namespace Insertion_Sort
         //Always O(N^2) except when sorted it is O(N) (Because of adding the swapped flag to detect swaps and exit early)
         //Swaps a lot (around N^2 swaps in the worst case)
 
-        public static void BubbleSort(ref List<double> toSort) {
+        public static void BubbleSort(List<double> toSort) {
 
             bool swapped = true;
             int i = 0;
@@ -100,7 +108,7 @@ namespace Insertion_Sort
                 {
                     if (toSort[j] > toSort[j+1])
                     {
-                        Swap(ref toSort, j, j + 1);
+                        Swap(toSort, j, j + 1);
                         swapped= true;
                     }
                 }
@@ -115,23 +123,40 @@ namespace Insertion_Sort
 
         //Easily parallelized
         //O(Nlog(N)) Time and O(N) Space Complexity (out place).
-        public static void MergeSort(ref List<double> toSort) {
-            MergeSort(ref toSort, 0, toSort.Count - 1);
+        public static void MergeSort(List<double> toSort) {
+            MergeSort(toSort, 0, toSort.Count - 1);
         }
 
-        public static void MergeSort(ref List<double> toSort, int start, int end) 
+        public static void MergeSort(List<double> toSort, int start, int end, bool parallelize = false) 
         {
             if (start < end)
             {
                 int middle = (start + end) / 2;
-                MergeSort(ref toSort, start, middle);
-                MergeSort(ref toSort, middle + 1, end);
-                Merge(ref toSort, start, middle, end);
+                if (parallelize) // Use multiple threads:
+                {
+                    Task t1 = Task.Run(()=> {
+                        MergeSort(toSort, start, middle);
+                    });
+
+                    Task t2 = Task.Run(() =>
+                    {
+                        MergeSort(toSort, middle + 1, end);
+                    });
+
+                    Task.WaitAll(t1,t2);
+                }
+                else
+                {
+                    MergeSort(toSort, start, middle, false);
+                    MergeSort(toSort, middle + 1, end, false);
+                }
+
+                Merge(toSort, start, middle, end);
             }
    
         }
 
-        public static void Merge(ref List<double> toSort, int start, int middle, int end)
+        public static void Merge(List<double> toSort, int start, int middle, int end)
         {
             //Get the left and right (Two lists to merge)
             List<double> left = toSort.GetRange(start, middle - start + 1);
@@ -163,34 +188,34 @@ namespace Insertion_Sort
         //O(NLogN) in most cases
         //Worst case is a sorted list and it is O(N^2), but it can be remedied by choosing a random pivot
         //In place, no extra storage needed
-        public static void QuickSort(ref List<double> toSort) {
-            MergeSort(ref toSort, 0, toSort.Count - 1);
+        public static void QuickSort(List<double> toSort) {
+            QuickSort(toSort, 0, toSort.Count - 1);
         }
 
 
-        public static void QuickSort(ref List<double> toSort, int start, int end) {
+        public static void QuickSort(List<double> toSort, int start, int end) {
             if (start < end)
             {
-                int splitPoint = RandomizedPartition(ref toSort, start, end);
-                QuickSort(ref toSort, start, splitPoint - 1);
-                QuickSort(ref toSort, splitPoint + 1, end);
+                int splitPoint = RandomizedPartition(toSort, start, end);
+                QuickSort(toSort, start, splitPoint - 1);
+                QuickSort(toSort, splitPoint + 1, end);
             }
         
         }
 
 
         //Randomize to avoid having a worst case split (the pivot is place as first element or last which results in O(N^2) complexity)
-        public static int RandomizedPartition(ref List<double> toSort, int start, int end)
+        public static int RandomizedPartition(List<double> toSort, int start, int end)
         {
             Random random = new Random();
             int randomIndex = random.Next(start, end + 1);
 
-            Swap(ref toSort, randomIndex, start);
+            Swap(toSort, randomIndex, start);
 
-            return Partition(ref toSort, start, end);
+            return Partition(toSort, start, end);
         }
 
-        public static int Partition(ref List<double> toSort, int start, int end)
+        public static int Partition(List<double> toSort, int start, int end)
         {
             double pivotValue = toSort[start];
             int left = start + 1;
@@ -198,17 +223,17 @@ namespace Insertion_Sort
             bool isDone = false;
             while (!isDone) {
                 while (left <= right && toSort[left] <= pivotValue) left++;
-                while (left <= right && toSort[right] <= pivotValue) right++;
+                while (left <= right && toSort[right] >= pivotValue) right--;
                 if (right < left) isDone = true;
-                else Swap(ref toSort, left, right);
+                else Swap(toSort, left, right);
             }
 
-            Swap(ref toSort, start, right);
+            Swap(toSort, start, right);
             return right;
         }
 
         //Helper functions:
-        public static void Swap(ref List<double> list, int i, int j) { 
+        public static void Swap(List<double> list, int i, int j) { 
         
             double temp = list[i];
             list[i] = list[j];

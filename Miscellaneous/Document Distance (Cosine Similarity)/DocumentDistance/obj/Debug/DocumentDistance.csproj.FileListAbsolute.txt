@@ -1,0 +1,20 @@
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.SuggestedBindingRedirects.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions Bonus\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions Bonus\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions Bonus\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions Bonus\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions Bonus\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions Bonus\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions Bonus\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.SuggestedBindingRedirects.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions Bonus\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions Bonus\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Competitions Bonus\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb

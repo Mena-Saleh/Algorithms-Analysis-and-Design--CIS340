@@ -1,0 +1,28 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\bin\Debug\OfficeOrganization.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\bin\Debug\OfficeOrganization.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\bin\Debug\OfficeOrganization.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\obj\Debug\OfficeOrganization.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\obj\Debug\OfficeOrganization.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[SOLUTION]\OfficeOrganization\obj\Debug\OfficeOrganization.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U5] Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.csprojResolveAssemblyReference.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.exe.config
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\bin\Debug\OfficeOrganization.pdb
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.csproj.SuggestedBindingRedirects.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\Office Organization\[TEMPLATE]\OfficeOrganization\obj\Debug\OfficeOrganization.pdb
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Greedy\Office Organization\OfficeOrganization\bin\Debug\OfficeOrganization.exe.config
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Greedy\Office Organization\OfficeOrganization\bin\Debug\OfficeOrganization.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Greedy\Office Organization\OfficeOrganization\bin\Debug\OfficeOrganization.pdb
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Greedy\Office Organization\OfficeOrganization\obj\Debug\OfficeOrganization.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Greedy\Office Organization\OfficeOrganization\obj\Debug\OfficeOrganization.csproj.SuggestedBindingRedirects.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Greedy\Office Organization\OfficeOrganization\obj\Debug\OfficeOrganization.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Greedy\Office Organization\OfficeOrganization\obj\Debug\OfficeOrganization.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Code\Algorithms-Analysis-and-Design--CIS340\Greedy\Office Organization\OfficeOrganization\obj\Debug\OfficeOrganization.pdb

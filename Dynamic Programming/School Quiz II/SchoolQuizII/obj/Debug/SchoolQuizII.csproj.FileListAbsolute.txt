@@ -1,0 +1,20 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R2] School Quiz II\[SOLUTION]\SchoolQuizII\bin\Debug\SchoolQuizII.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R2] School Quiz II\[SOLUTION]\SchoolQuizII\obj\Debug\SchoolQuizII.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R2] School Quiz II\[SOLUTION]\SchoolQuizII\bin\Debug\SchoolQuizII.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R2] School Quiz II\[SOLUTION]\SchoolQuizII\bin\Debug\SchoolQuizII.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R2] School Quiz II\[SOLUTION]\SchoolQuizII\obj\Debug\SchoolQuizII.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R2] School Quiz II\[SOLUTION]\SchoolQuizII\obj\Debug\SchoolQuizII.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R2] School Quiz II\[TEMPLATE]\SchoolQuizII\bin\Debug\SchoolQuizII.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R2] School Quiz II\[TEMPLATE]\SchoolQuizII\obj\Debug\SchoolQuizII.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R2] School Quiz II\[TEMPLATE]\SchoolQuizII\obj\Debug\SchoolQuizII.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R2] School Quiz II\[TEMPLATE]\SchoolQuizII\bin\Debug\SchoolQuizII.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R2] School Quiz II\[TEMPLATE]\SchoolQuizII\bin\Debug\SchoolQuizII.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R2] School Quiz II\[TEMPLATE]\SchoolQuizII\obj\Debug\SchoolQuizII.csprojResolveAssemblyReference.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\School Quiz II\[TEMPLATE]\SchoolQuizII\bin\Debug\SchoolQuizII.exe.config
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\School Quiz II\[TEMPLATE]\SchoolQuizII\bin\Debug\SchoolQuizII.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\School Quiz II\[TEMPLATE]\SchoolQuizII\bin\Debug\SchoolQuizII.pdb
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\School Quiz II\[TEMPLATE]\SchoolQuizII\obj\Debug\SchoolQuizII.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\School Quiz II\[TEMPLATE]\SchoolQuizII\obj\Debug\SchoolQuizII.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\School Quiz II\[TEMPLATE]\SchoolQuizII\obj\Debug\SchoolQuizII.exe
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\School Quiz II\[TEMPLATE]\SchoolQuizII\obj\Debug\SchoolQuizII.pdb
+D:\Education\College FCIS\Courses\6th semester\Algo\Assignments\School Quiz II\[TEMPLATE]\SchoolQuizII\obj\Debug\SchoolQuizII.csproj.SuggestedBindingRedirects.cache
