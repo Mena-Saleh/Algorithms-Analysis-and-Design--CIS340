@@ -87,7 +87,6 @@ print(hMap.values())
 hMap['a'] = hMap.get('a', 0) + 1 # Finds a with value 1 and increments it to 2, hMap['a'] += 1 can also be done here
 hMap['x'] = hMap.get('x', 0) + 1 # Doesn't find x so it initializes it to 0 and adds 1
 
-
 print(hMap)
 
 
@@ -120,7 +119,6 @@ print(items)
 
 # Deletion, deletion is only done efficiently for root node (the min)
 heapq.heappop(items)
-
 print(items[0])
 
 # Priority queues implemented using heap too

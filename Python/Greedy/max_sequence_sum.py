@@ -25,11 +25,10 @@ def calculate_mid_max(arr, start, mid, end):
     left_max = float('-inf')
     left_max_ptr = mid
 
-    temp_sum = 0
     for i in range(mid, start - 1, -1):
-        temp_sum += arr[i]
-        if temp_sum > left_max:
-            left_max = temp_sum
+        left_sum += arr[i]
+        if left_sum > left_max:
+            left_max = left_sum
             left_max_ptr = i
 
     # Get max sum going to the right from the midpoint + 1
@@ -37,11 +36,10 @@ def calculate_mid_max(arr, start, mid, end):
     right_max = float('-inf')
     right_max_ptr = mid + 1
 
-    temp_sum = 0
     for i in range(mid + 1, end + 1):
-        temp_sum += arr[i]
-        if temp_sum > right_max:
-            right_max = temp_sum
+        right_sum += arr[i]
+        if right_sum > right_max:
+            right_max = right_sum
             right_max_ptr = i
 
     return (left_max_ptr, right_max_ptr, left_max + right_max)

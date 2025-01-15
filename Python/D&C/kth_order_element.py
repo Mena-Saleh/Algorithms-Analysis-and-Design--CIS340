@@ -7,6 +7,7 @@ def select_kth_order_element(arr, start, end, order):
         return 'out of range'
     if start >= end:
         return f'The element is {arr[start]}'
+    
     # Select pivot
     pivot_index = random.randint(start, end)
     pivot_value = arr[pivot_index]
